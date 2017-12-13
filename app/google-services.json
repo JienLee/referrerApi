@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "197309827103",
+    "firebase_url": "https://fbtest-3b7ab.firebaseio.com",
+    "project_id": "fbtest-3b7ab",
+    "storage_bucket": "fbtest-3b7ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197309827103:android:e97adcd2957e774d",
+        "android_client_info": {
+          "package_name": "com.example.jieun.remoteconfigex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197309827103-fsnbtv7bpcqhogg6fl263iafndu1rgre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WarIVYDGf9H7DtMPVTp53ZqqWBqykDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197309827103:android:00263f13805d1b31",
+        "android_client_info": {
+          "package_name": "com.example.jieun.referraltestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197309827103-fsnbtv7bpcqhogg6fl263iafndu1rgre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WarIVYDGf9H7DtMPVTp53ZqqWBqykDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
